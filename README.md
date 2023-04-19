@@ -39,6 +39,7 @@ Les logiciels utilisés pour le bon développement de l'infrastructure :
 Les différents modules utilisés :
 `Docker`
 `Node JS`
+`Laravel`
 
 Développement réalisés sous :
 `Debian 9/10/11`
