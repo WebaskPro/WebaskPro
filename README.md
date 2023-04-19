@@ -24,7 +24,7 @@ Ici vous pouvez vous rediriger, directement vers les différents sections :
 
 ## Installation
 
-L'installation des ressources sont uniquements privés, et servent au développement Webask.
+L'installation des ressources sont uniquements privés, et servent au développement de Webask.
 
 `git clone [repository]`
 
