@@ -78,5 +78,4 @@ Les nouveautés seront divulguées au fur et à mesure du temps.
 © Tous droits réservés Webask 2023
 
 Collaborateur :
-- TOUKAM
-- MaxEU
+- Maxence M.
